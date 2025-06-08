@@ -1,16 +1,12 @@
 <h1 align="center">👋, I'm Abdullah</h1>
 
-- 🔭 I’m currently working on [WalkieTalkieLLM](https://github.com/mark3334/COMP30880_ComicCodex)
+- 🔭 I’m currently building [WalkieTalkieLLM](https://github.com/mark3334/COMP30880_ComicCodex), a language-learning comic generator powered by LLMs and TTS APIs.  
+- 🌱 Right now, I’m diving deep into **Fastai** and expanding my knowledge in AI-driven applications.  
+- 👯 Passionate about solving real-world problems, I’m open to collaborations in **FinTech** and **MedTech**—especially where innovation meets impact.  
+- 👨‍💻 You’ll find all my projects below—ranging from AI tools to full-stack web apps using **Spring Boot**, **Thymeleaf**, and **Docker**.  
+- 💬 Let’s chat about **Java**, **Spring Boot**, **Fastai**, or anything that blends backend power with machine learning flair.  
+- 📫 Reach out via email: **abdullah.shinwari@ucdconnect.ie** — I’m always open to meaningful tech conversations!
 
-- 🌱 I’m currently learning **Fastai**
-
-- 👯 I’m looking to collaborate on innovative **FinTech, MedTech Projects**
-
-- 👨‍💻 All of my projects are available down below.
-
-- 💬 Ask me about **SpringBoot, Java, Fastai**
-
-- 📫 How to reach me **abdullah.shinwari@ucdconnect.ie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
