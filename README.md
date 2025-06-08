@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate tech enthusiast ;</h3>
 
 - 🔭 I’m currently working on [WalkieTalkieLLM](https://github.com/mark3334/COMP30880_ComicCodex)
 
 - 🌱 I’m currently learning **Fastai**
 
-- 👯 I’m looking to collaborate on **FinTech, MedTech Projects**
+- 👯 I’m looking to collaborate on innovative **FinTech, MedTech Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdullahShinwari8970](https://github.com/AbdullahShinwari8970)
+- 👨‍💻 All of my projects are available down below.
 
 - 💬 Ask me about **SpringBoot, Java, Fastai**
 
