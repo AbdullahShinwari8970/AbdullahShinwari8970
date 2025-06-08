@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">👋, I'm Abdullah</h1>
 
 - 🔭 I’m currently working on [WalkieTalkieLLM](https://github.com/mark3334/COMP30880_ComicCodex)
 
