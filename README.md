@@ -1,14 +1,5 @@
 <h1 align="center">👋, I'm Abdullah</h1>
 
-- 🔭 I’m currently working on [WalkieTalkieLLM](https://github.com/mark3334/COMP30880_ComicCodex)
-
-- 🌱 I’m currently learning **Fastai**
-
-- 👯 I’m looking to collaborate on innovative **FinTech, MedTech Projects**
-
-- 👨‍💻 All of my projects are available down below.
-
-- 💬 Ask me about **SpringBoot, Java, Fastai**
 
 - 📫 How to reach me **abdullah.shinwari@ucdconnect.ie**
 
